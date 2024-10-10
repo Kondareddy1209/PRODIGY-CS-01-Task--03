@@ -1,5 +1,7 @@
 # PRODIGY-CS-01-Task--03
 
+## Password Complexity Checker
+
 This repository contains a **Password Strength Checker Tool**. The tool evaluates a password based on the following criteria:
 
 - Length of at least 8 characters.
@@ -36,6 +38,6 @@ Install any required libraries (if needed); however, standard libraries are used
 ```bash
 Enter a password: Example@123
 Password strength: Strong.
- ```
+```
 -
-                                              --------THANK💚YOU--------
+                                                 THANK💚YOU
