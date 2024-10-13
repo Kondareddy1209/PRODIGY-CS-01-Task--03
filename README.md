@@ -17,7 +17,7 @@ This repository contains a **Password Strength Checker Tool**. The tool evaluate
 ## Requirements
 To run the password strength checker tool, ensure you have the following installed:
 
-- **Python 3.x**: You can download and install it from [Python's official website](https://www.python.org/downloads/).
+- **Python 3.11.9**: You can download and install it from [Python's official website](https://www.python.org/downloads/).
 
 Install any required libraries (if needed); however, standard libraries are used in this project.
 
